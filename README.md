@@ -1,1 +1,1 @@
-# Test-binder
+print("Hello from Binder")
